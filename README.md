@@ -252,34 +252,7 @@ We are committed to preserving and promoting Mauritanian musical heritage while 
 
 ---
 
-## 📈 Results
 
-### Model Performance
-
-| Metric | Score |
-|--------|-------|
-| **Training Accuracy** | [To be filled] |
-| **Validation Accuracy** | [To be filled] |
-| **Test Accuracy** | [To be filled] |
-| **Precision** | [To be filled] |
-| **Recall** | [To be filled] |
-| **F1-Score** | [To be filled] |
-
-### Confusion Matrix
-
-[Insert confusion matrix visualization here after training]
-
-### Per-Maqam Performance
-
-| Maqam | Precision | Recall | F1-Score |
-|-------|-----------|---------|----------|
-| Karr | [TBF] | [TBF] | [TBF] |
-| Vaghou | [TBF] | [TBF] | [TBF] |
-| Lkhall | [TBF] | [TBF] | [TBF] |
-| Lbyad | [TBF] | [TBF] | [TBF] |
-| Lebteyt | [TBF] | [TBF] | [TBF] |
-
----
 
 ## 🎓 Technical Details
 
@@ -345,13 +318,14 @@ This project honors this cultural treasure by:
 
 **Project developed by:**
 
-- **Ahmed Bezeid Ahmed Abd El Aziz** (ID: 22068)
 - **Moulaye Ahmed Mohamed BRAHIM** (ID: 22281)
-- **Zeinebou Taki** (ID: 22092)
+- **Ahmed Bezeid Ahmed Abd El Aziz** (ID: 22068)
+
+
 
 **Institution**: École Supérieure Polytechnique (ESP), Mauritania
 
-**Course**: SID47 - Machine Learning (2024)
+**Course**: SID47 - Deep Learning (2024)
 
 ---
 
@@ -386,19 +360,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **TensorFlow/Keras team** for deep learning framework
 - All who contribute to preserving and promoting Mauritanian cultural heritage
 
----
-
-## 📚 References
-
-### Traditional Mauritanian Music
-1. Guignard, M. (1975). "Musique, honneur et plaisir au Sahara." *Librairie Orientaliste Paul Geuthner*.
-2. Norris, H. T. (1968). "Shinqiti Folk Literature and Song." *Clarendon Press*.
-3. Touma, H. H. (1996). "The Music of the Arabs." *Amadeus Press*.
-
-### Technical References
-4. Hochreiter, S., & Schmidhuber, J. (1997). "Long Short-Term Memory." *Neural Computation*, 9(8), 1735-1780.
-5. McFee, B., et al. (2015). "librosa: Audio and Music Signal Analysis in Python." *SciPy*.
-6. Humphrey, E. J., Bello, J. P., & LeCun, Y. (2012). "Moving beyond feature design: Deep architectures and automatic feature learning in music informatics." *ISMIR*.
 
 ---
 
@@ -418,33 +379,11 @@ This project contributes to:
 - ✅ **Technology Transfer**: Applying ML to cultural heritage
 - ✅ **Global Awareness**: Promoting Mauritanian music internationally
 
----
-
-## 🔊 Audio Examples
-
-[Links to sample audio clips will be added - Contact for access]
-
----
-
-## 📊 Project Status
-
-- [x] Literature review and methodology design
-- [x] Feature extraction pipeline implementation
-- [x] LSTM model architecture design
-- [ ] Complete dataset collection (In progress)
-- [ ] Model training and optimization
-- [ ] Performance evaluation
-- [ ] Web application development
-- [ ] Documentation and publication
 
 ---
 
 <p align="center">
   <img src="https://via.placeholder.com/600x200/8B4513/FFFFFF?text=AZAWAN+-+5+Maqamat" alt="AZAWAN Maqamat">
-</p>
-
-<p align="center">
-  <i>⭐ If you appreciate Mauritanian traditional music or are interested in cultural AI applications, please star this project!</i>
 </p>
 
 <p align="center">
